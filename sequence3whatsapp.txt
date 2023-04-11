@@ -1,0 +1,3 @@
+# ui-bots 
+#IT is an attendance software.
+# if less than the criteria than directly message is send on the registered number on whatsapp.
