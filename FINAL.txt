@@ -1,0 +1,1 @@
+It is a mail sending bot, can send any desired message to any number of people.
